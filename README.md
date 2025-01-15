@@ -28,6 +28,8 @@ Dataset Source: [Kaggle - Cancer Data](https://www.kaggle.com/datasets/erdemtaha
 
 ## Workflow
 
+![Workflow](https://github.com/dikirust/Cancer-Diagnosis-Prediction-using-Decision-Tree--Naive-Bayes--and-KNN-Algorithms/blob/main/knn%20nb%20dt%20ornge.png?raw=true)
+
 1. **Data Preprocessing**:
    - The `id` variable is excluded as it does not impact the diagnosis.
    - Missing data check is performed, ensuring no missing values in the dataset.
@@ -48,10 +50,4 @@ Dataset Source: [Kaggle - Cancer Data](https://www.kaggle.com/datasets/erdemtaha
        - Precision: 92.6%
        - Recall: 92.6%
 4. **Results**:
-
    - The Decision Tree model performed well with consistent results across metrics.
-
-5. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/cancer-diagnosis-prediction.git
-   ```
