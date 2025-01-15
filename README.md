@@ -1,0 +1,2 @@
+# Cancer Diagnosis Prediction using Decision Tree, Naive Bayes, and KNN Algorithms
+ This project uses machine learning techniques—Decision Tree, Naïve Bayes, and KNN algorithms—to predict whether a cancer diagnosis is malignant or benign. The dataset used for this task is the Breast Cancer Dataset from Kaggle, which contains key characteristics of cancerous tumors, such as radius, texture, perimeter, and area.
